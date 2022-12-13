@@ -1,2 +1,5 @@
-print("Ola este é um teste de execução")
-input("Pressione alguma tecla")
+from src.functions import Escreva
+import time
+print("-----TESTE----")
+Escreva()
+time.sleep(100)
